@@ -45,7 +45,7 @@
 					</div>
 				</div>
 		   	</div>
-			<div class="col-lg-6 col-md-8 col-sm-8 align-self-center">
+			<div class="col-lg-12 col-md-8 col-sm-8 align-self-center">
 				<?php if(has_nav_menu('main-menu')){ ?>
 					<button class="menu-toggle my-2 py-2 px-3" aria-controls="top-menu" aria-expanded="false" type="button">
 						<span aria-hidden="true"><?php esc_html_e( 'Menu', 'foodie-restaurant' ); ?></span>
